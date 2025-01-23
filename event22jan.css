@@ -1,0 +1,28 @@
+.head{
+    text-align: center;
+    color: red;
+
+}
+
+.head2{
+    text-align: center;
+}
+
+.image{
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-left: 620px;
+}
+
+.desc{
+    text-align: center;
+    color: blue;
+    
+}
+
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
